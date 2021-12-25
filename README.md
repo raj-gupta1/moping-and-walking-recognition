@@ -1,10 +1,12 @@
 
 
 
- <h1>moping-and-walking-recognition</h1>
- <h5> Watch Output Video here: https://youtu.be/2sNKAssR5mY </h5>
- <h3> © Raj Gupta 2021</h3>
-   <br> 
+ <h1>Moping and Walking Recognition</h1> 
+  <br>
+ <h2> Watch Output Video here: https://youtu.be/2sNKAssR5mY </h2>
+ <br>
+ <h2> © Raj Gupta 2021</h2>
+  <br>
   <h2>Paper Referenced from:</h2>
  <h3> KMediaPipe: A Framework for Building Perception Pipelines
 Camillo Lugaresi, Jiuqiang Tang, Hadon Nash, Chris McClanahan, Esha Uboweja, Michael Hays,
@@ -47,7 +49,13 @@ Google Research https://arxiv.org/pdf/1906.08172.pdf</h3>
 </ul> </p> 
   <br> 
 
-</ul>
+
+<img align="right" width="400" height="200" src="https://media.giphy.com/media/o1rRbQkpjWe4whyrW2/giphy-downsized-large.gif">   
+
+
+
+
+
 </p>
 <br>  
 
