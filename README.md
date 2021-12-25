@@ -50,7 +50,7 @@ Google Research https://arxiv.org/pdf/1906.08172.pdf</h3>
   <br> 
 
 
-<img align="right" width="400" height="200" src="https://media.giphy.com/media/o1rRbQkpjWe4whyrW2/giphy-downsized-large.gif">   
+<img align="right" width="500" height="350" src="https://github.com/raj-gupta1/moping-and-walking-recognition/blob/main/giphy.gif">   
 
 
 
