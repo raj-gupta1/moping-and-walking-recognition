@@ -32,8 +32,8 @@ Google Research https://arxiv.org/pdf/1906.08172.pdf</h3>
  <h1> Libraries used</h1>
  <p title=Libraries used>  
 <ul>
-<li>Numpy , mediapipe  </li>
-<li>OpenCV </li> 
+<li>Numpy , mediapipe, sklearn, pickle </li>
+<li>OpenCV, os, csv, pandas </li> 
 </ul> </p> 
   <br>  
  
