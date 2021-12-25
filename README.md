@@ -23,6 +23,14 @@ Google Research https://arxiv.org/pdf/1906.08172.pdf</h3>
  </ul></p>  
  <br> 
  
+<h1> Functions provided</h1>
+ <p title=Functions provided>  
+<ul>
+<li>Walking detection</li>
+<li>Moping detection</li>
+ </ul></p>  
+ <br>  
+ 
  <h2>Deployment</h2> 
 <p title=Deployment>  
 <ul>
